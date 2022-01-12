@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecetasWebScrapping", "RecetasWebScrapping\RecetasWebScrapping.csproj", "{77F9D54A-500F-4F09-954F-EBFBE0055568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F9D54A-500F-4F09-954F-EBFBE0055568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F9D54A-500F-4F09-954F-EBFBE0055568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F9D54A-500F-4F09-954F-EBFBE0055568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F9D54A-500F-4F09-954F-EBFBE0055568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89FEC272-ACDB-4D72-BDC5-B64C017D503F}
+	EndGlobalSection
+EndGlobal
